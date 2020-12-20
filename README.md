@@ -1,7 +1,7 @@
 # The Riddles...
 
 
-<img src="./thumbnail.png" alt="exemplo imagem">
+
 
 > Um site que mistura enigmas simples juntamente com curiosidades sobre o mundo geek.
 
