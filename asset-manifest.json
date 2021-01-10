@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-riddles/static/css/main.b9686920.chunk.css",
+    "main.css": "/the-riddles/static/css/main.58aa0e12.chunk.css",
     "main.js": "/the-riddles/static/js/main.cfbe8b82.chunk.js",
     "main.js.map": "/the-riddles/static/js/main.cfbe8b82.chunk.js.map",
     "runtime-main.js": "/the-riddles/static/js/runtime-main.aba656c2.js",
@@ -8,7 +8,7 @@
     "static/js/2.412875aa.chunk.js": "/the-riddles/static/js/2.412875aa.chunk.js",
     "static/js/2.412875aa.chunk.js.map": "/the-riddles/static/js/2.412875aa.chunk.js.map",
     "index.html": "/the-riddles/index.html",
-    "static/css/main.b9686920.chunk.css.map": "/the-riddles/static/css/main.b9686920.chunk.css.map",
+    "static/css/main.58aa0e12.chunk.css.map": "/the-riddles/static/css/main.58aa0e12.chunk.css.map",
     "static/js/2.412875aa.chunk.js.LICENSE.txt": "/the-riddles/static/js/2.412875aa.chunk.js.LICENSE.txt",
     "static/media/01-O-Exorcista-1024x576.c6324fb0.jpg": "/the-riddles/static/media/01-O-Exorcista-1024x576.c6324fb0.jpg",
     "static/media/02-O-Bebê-de-Rosemary-1024x550.b33b1942.jpg": "/the-riddles/static/media/02-O-Bebê-de-Rosemary-1024x550.b33b1942.jpg",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.aba656c2.js",
     "static/js/2.412875aa.chunk.js",
-    "static/css/main.b9686920.chunk.css",
+    "static/css/main.58aa0e12.chunk.css",
     "static/js/main.cfbe8b82.chunk.js"
   ]
 }
